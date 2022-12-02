@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 include_directories(includes)
 
-add_executable(AdventOfCode2022 src/main.cpp src/Day.cpp src/Day1.cpp)
+add_executable(AdventOfCode2022 src/main.cpp src/Day.cpp src/Day1.cpp src/Day2.cpp)
 
 target_link_libraries(AdventOfCode2022 fmt)

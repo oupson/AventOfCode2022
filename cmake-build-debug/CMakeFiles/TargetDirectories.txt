@@ -1,3 +1,0 @@
-/home/oupson/Documents/Code/cpp/AdventOfCOde2022/cmake-build-debug/CMakeFiles/AdventOfCode2022.dir
-/home/oupson/Documents/Code/cpp/AdventOfCOde2022/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/oupson/Documents/Code/cpp/AdventOfCOde2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
