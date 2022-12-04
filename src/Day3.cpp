@@ -60,7 +60,6 @@ void Day3::run_day(std::ifstream &stream) const {
         for (auto c: first_part) {
             for (auto c2: second_part) {
                 if (c == c2) {
-                    std::cout << c << c2 << std::endl;
                     found = true;
                     sum += to_priority(c);
                     break;
@@ -70,7 +69,6 @@ void Day3::run_day(std::ifstream &stream) const {
                 break;
             }
         }
-        std::cout << "new line" << std::endl;
     }
     std::cout << fmt::format("Answer part 1 : {}", sum) << std::endl;
     std::cout << fmt::format("Answer part 2 : {}", sum_part_2) << std::endl;
