@@ -1,5 +1,5 @@
 //
-// Created by oupson on 01/12/22.
+// Created by oupson on 02/12/22.
 //
 
 #ifndef ADVENTOFCODE2022_DAY2_HPP
