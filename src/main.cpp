@@ -3,6 +3,7 @@
 #include <Day3.hpp>
 #include <Day4.hpp>
 #include <Day5.hpp>
+#include <Day6.hpp>
 
 template<class T>
 void run() {
@@ -16,6 +17,7 @@ int main() {
     run<Day3>();
     run<Day4>();
     run<Day5>();
+    run<Day6>();
     return 0;
 }
 
